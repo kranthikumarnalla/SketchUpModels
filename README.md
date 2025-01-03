@@ -1,4 +1,4 @@
-![SketchUp logo](Screenshots/SketchUp.png)SketchUp models
+(Screenshots/SketchUp.png)SketchUp models
 ====================
 
 This is a collection of SketchUp models i have made over the years for different projects if have worked on.
