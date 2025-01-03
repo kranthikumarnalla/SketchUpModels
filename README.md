@@ -6,9 +6,6 @@ This is a collection of SketchUp models i have made.
 Screenshots
 ----
 
-### CD shelves.skp
-![CD shelves](Screenshots/CD shelves.png)
-
 ### Diningroom table and chairs.skp
 ![Dining room table and chairs](Screenshots/Diningroom table and chairs.png)
 
